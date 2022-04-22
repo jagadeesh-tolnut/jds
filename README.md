@@ -14,7 +14,7 @@ pip install jds
 
 python code example:
 ```python
-from jds import Stack
+from jds.stack import Stack
 
 stack = Stack()
 stack.push(10)
